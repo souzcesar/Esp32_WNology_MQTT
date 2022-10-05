@@ -7,6 +7,7 @@
   
   The above copyright notice and this permission notice shall be included in all
   copies or substantial portions of the Software.
+Ajustado para a plataforma pelos Profs Cesar e Jose Sergio.
 */
 
 #include "DHT.h"
