@@ -28,13 +28,13 @@ extern "C" {
 // For a cloud MQTT broker, type the domain name
 #define MQTT_HOST "broker.app.wnology.io"
 #define MQTT_PORT 1883
-
+########################################
 // NO LUGAR DE YOUR CLIENT ID COLOCAR O ID DO SEU DEVICE CRIADO NO WNOLOGY
 // Temperature MQTT Topics
 
 #define MQTT_PUB_TEMP "wnology/YOUR CLIENT ID/state"
 //#define MQTT_PUB_HUM  "esp32/dht/humidity"
-
+######################################
 // Digital pin connected to the DHT sensor
 #define DHTPIN 15  
 
